@@ -32,7 +32,7 @@ const ImageUploader: React.FC<ImageUploaderProps> = ({src, onImageChange}) => {
                     sx={{
                         marginBottom: 1,
                         marginTop: 3,
-                        marginX:2,
+                        marginX:'25%',
                         width: "auto",
                         height:"auto",
                         maxHeight: '100%',

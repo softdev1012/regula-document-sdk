@@ -1,3 +1,3 @@
-export * from './FaceService';
-export * from './FaceServiceMock';
+export * from './DocumentService';
+export * from './DocumentServiceMock';
 export * from './utils';
